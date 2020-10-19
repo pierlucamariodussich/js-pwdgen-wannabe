@@ -28,16 +28,22 @@
 .password-container {
   border: 2px solid black;
   border-radius: 10px;
-  margin-top: 10px;
+  margin-top: 30px;
   height: 80px;
-  padding: 0 20px;
+  padding: 15px 20px;
+
 }
 
 h1{
   font-size: 56px;
   text-align:center;
+
 }
 
 h4{
-   font-size: 56px;
+   font-size: 30px;
+}
+
+img{
+  height: 100px;
 }
